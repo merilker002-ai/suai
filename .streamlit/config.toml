@@ -7,3 +7,5 @@ font = "sans serif"
 
 [server]
 headless = true
+# .streamlit/secrets.toml dosyasına ekleyin
+GITHUB_TOKEN = "github_personal_access_token_here"
